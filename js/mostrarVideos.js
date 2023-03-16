@@ -2,7 +2,7 @@ import { conectaApi } from './videoAPI.js'
 
 const lista = document.querySelector('[data-lista]');
 
-function constroeCards(video) {
+export default function constroeCards(video) {
     // <li class="videos__item">
     //         <iframe width="100%" height="72%" src="https://www.youtube.com/embed/pA-EgOaF23I"
     //             title="YouTube video player" frameborder="0"
@@ -50,9 +50,14 @@ function constroeCards(video) {
 }
 
 async function listaVideos() {
-    const videos = await conectaApi.obterVideos();
+    try {
+        const videos = await conectaApi.obterVideos();
 
-    videos.forEach(video => lista.appendChild(constroeCards(video)));
+        videos.forEach(video => lista.appendChild(constroeCards(video)));
+    }
+    catch (error) {
+        lista.innerHTML = '<h2 class="mensagem__titulo">Não foi possivel carregar a lista de video</h2>'
+    }
 }
 
 listaVideos();

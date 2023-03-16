@@ -90,6 +90,41 @@
       "url": "https://www.youtube.com/embed/jz8w9Q3BTzg",
       "imagem": "https://i.ytimg.com/an_webp/jz8w9Q3BTzg/mqdefault_6s.webp?du=3000&sqp=CICmw6AG&rs=AOn4CLBOInTwjmaBINCxjnbysAt5zUso5g",
       "id": 13
+    },
+    {
+      "titulo": "Keanu Reeves Zoou o Brasil / Desenho Trans no Netflix!",
+      "descricao": "3 mil visualizações",
+      "url": "https://www.youtube.com/embed/QTCmQVJeWek",
+      "imagem": "https://i.ytimg.com/vi/QTCmQVJeWek/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhFIGUoSzAP&rs=AOn4CLCH9yyAam1zuwn7aX9ojB_NSC4apw",
+      "id": 14
+    },
+    {
+      "titulo": "A minha casa nova",
+      "descricao": "2 mil visualizações",
+      "url": "https://www.youtube.com/embed/FRUaWnWOETU",
+      "imagem": "https://i.ytimg.com/vi/FRUaWnWOETU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAug0ztDTbS_Hzyo7O8rJ2Oq7aaBA",
+      "id": 15
+    },
+    {
+      "titulo": "Mr. Been",
+      "descricao": "8 mil visualizações",
+      "url": "https://www.youtube.com/embed/qCNu_vJNLMQ",
+      "imagem": "https://i.ytimg.com/vi/qCNu_vJNLMQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcDwLl-V1vaob8ff9UsJt36vkKGw",
+      "id": 16
+    },
+    {
+      "titulo": "Guia de Carreira ANGULAR",
+      "descricao": "8 mil visualizações",
+      "url": "https://www.youtube.com/embed/mXtDHJRVoJo",
+      "imagem": "https://i.ytimg.com/an_webp/mXtDHJRVoJo/mqdefault_6s.webp?du=3000&sqp=CK7tzaAG&rs=AOn4CLDuerRJlYyf_H5ljlFiups43TmAvA",
+      "id": 17
+    },
+    {
+      "titulo": "Arquitetura de sistemas com Fabio Akita ",
+      "descricao": "7 mil visualizações",
+      "url": "https://www.youtube.com/embed/oedWxgAZc2A",
+      "imagem": "https://i.ytimg.com/an_webp/oedWxgAZc2A/mqdefault_6s.webp?du=3000&sqp=CPDfzaAG&rs=AOn4CLDqb_EmWDcS-XA78PB6tC1Mobpt_Q",
+      "id": 18
     }
   ]
 }
