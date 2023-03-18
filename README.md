@@ -14,6 +14,14 @@
 * HTML
 * CSS
 
+Faça esse curso de JavaScript e:
+* Saiba como mockar uma API
+* Realize requisições GET para retornar dados de uma API
+* Construa requisições POST para cadastrar dados em uma API
+* Reforce seus conhecimentos em javascript assíncrono
+* Trate possíveis erros de requisição retornados da API
+* Aprenda a transformar uma página estática em dinâmica
+
 ## Screenshots
 ![Screenshot da tela inicial do AluraPlay](https://imgur.com/aymxEsh.png)
 ![Screenshot da tela do formulário do AluraPlay](https://imgur.com/ShNADf2.png)
